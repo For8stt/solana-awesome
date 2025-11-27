@@ -154,6 +154,8 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Umi                    | Framework | Metaplex          | [Link](https://github.com/metaplex-foundation/umi)                     | A Solana framework for JavaScript clients                                                                                              |
 | Wallet Adapter         | Framework | Anza              | [Link](https://github.com/anza-xyz/wallet-adapter)                     | Modular TypeScript wallet adapters and components for Solana applications                                                              |
 | Rust Wallet Adapter    | Framework | 448-OG            | [Link](https://github.com/JamiiDao/SolanaWalletAdapter)                | A Rust library implementing the wallet-adapter standard with templates for Dioxus, Yew and Sycamore |
+| Solana VS Code Extension | Tool | Ackee Blockchain | [Link](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.solana) | First VS Code extension for Solana with real-time security analysis (9 detectors) and Trident fuzz coverage visualization |
+
 
 ### Explorers
 
